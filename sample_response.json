@@ -1,0 +1,34 @@
+{
+  "topic": "Photosynthesis",
+  "age": 10,
+  "questions": [
+    {
+      "question": "What is the main function of photosynthesis in plants?",
+      "options": [
+        "To make food for humans",
+        "To produce oxygen for animals",
+        "To convert light energy into chemical energy",
+        "To absorb water from the soil"
+      ],
+      "correct": 2,
+      "explanation": "Photosynthesis is the process by which plants convert light energy from the sun into chemical energy in the form of glucose, which is used as food by the plant."
+    },
+    {
+      "question": "What do plants need to undergo photosynthesis?",
+      "options": [
+        "Water, oxygen, and sunlight",
+        "Carbon dioxide, sunlight, and soil",
+        "Oxygen, sunlight, and minerals",
+        "Water, carbon dioxide, and sunlight"
+      ],
+      "correct": 3,
+      "explanation": "Plants need water, carbon dioxide, and sunlight to undergo photosynthesis, which is the process by which they produce glucose and oxygen."
+    },
+    {
+      "question": "What is the byproduct of photosynthesis that is released into the air?",
+      "options": ["Carbon dioxide", "Glucose", "Oxygen", "Water"],
+      "correct": 2,
+      "explanation": "Oxygen is the byproduct of photosynthesis that is released into the air, which is essential for the survival of most living organisms, including humans and animals."
+    }
+  ]
+}
